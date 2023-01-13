@@ -29,6 +29,7 @@
     "/public/build"
   ],
   "dependencies": {
+    "@netlify/functions": "^1.4.0",
     "@prisma/client": "^4.5.0",
     "@remix-run/netlify": "^1.10.1",
     "@remix-run/node": "^1.10.0",
